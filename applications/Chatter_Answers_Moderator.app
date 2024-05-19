@@ -180,7 +180,11 @@
     </preferences>
     <tabs>standard-Case</tabs>
     <tabs>standard-Knowledge</tabs>
+    <tabs>Copado_Demo__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Copado_Demo__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Case</tab>
         </mappings>

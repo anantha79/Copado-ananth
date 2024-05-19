@@ -183,7 +183,11 @@
     <tabs>standard-Lead</tabs>
     <tabs>standard-Knowledge</tabs>
     <tabs>standard-Document</tabs>
+    <tabs>Copado_Demo__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Copado_Demo__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

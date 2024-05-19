@@ -185,7 +185,11 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
+    <tabs>Copado_Demo__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Copado_Demo__c</tab>
+        </mappings>
         <mappings>
             <tab>Getting_Started</tab>
         </mappings>

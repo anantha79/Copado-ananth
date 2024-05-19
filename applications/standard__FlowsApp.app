@@ -5,9 +5,11 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
-    <label>Online Sales</label>
+    <label>FlowsApp</label>
     <navType>Standard</navType>
-    <tabs>standard-OnlineSalesHome</tabs>
+    <tabs>standard-home</tabs>
+    <tabs>standard-FlowRecord</tabs>
     <tabs>Copado_Demo__c</tabs>
     <uiType>Lightning</uiType>
+    <utilityBar>FlowsApp_UtilityBar</utilityBar>
 </CustomApplication>
